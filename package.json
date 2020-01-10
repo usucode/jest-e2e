@@ -2,11 +2,7 @@
   "scripts": {
     "test": "jest -c ./test/config.json"
   },
-  "dependencies": {
-    "casperjs": "^1.1.4",
-    "phantomjs": "^2.1.7",
-    "selenium-webdriver": "^4.0.0-alpha.5"
-  },
+  "dependencies": {},
   "devDependencies": {
     "jest": "^24.9.0",
     "jest-puppeteer": "^4.4.0",
